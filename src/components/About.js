@@ -44,7 +44,7 @@ const About = () => {
         initial="hidden"
         whileInView={'show'}
         viewport={{once: false, amount: 0.5}} className='mb-6'>
-          I am a full-stack web developer with expertise in building dynamic and responsive websites and web applications. With a strong background in programming languages such as JavaScript, HTML, CSS, and experience using popular frameworks like React, Node.js, and Express. 
+          I am a full-stack web developer with expertise in building dynamic and responsive websites and web applications. With a promising background in programming languages such as JavaScript, HTML, CSS, and experience using popular frameworks like React, Node.js, and Express. 
           </motion.p>
           <div>
             <div>
