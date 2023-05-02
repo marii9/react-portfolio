@@ -56,7 +56,7 @@ const Work = () => {
      <div className='group relative overflow-hidden border-2 border-white/50 rounded-xl' style={{height: '435px'}}>
      <div className='group-hover:-translate-y-24 transition-all duration-300  '></div>
      <div style={{position: 'absolute', top: '5px', left: '20px', zIndex: 1, color: 'white'}}></div>
-     <div className='text-white   absolute -bottom-full left-0 group-hover:bottom-20 transition-all duration-500 z-50 opacity-1'>Front End Design And BackEnd Design</div>
+     <div className='text-white   absolute -bottom-full left-0 group-hover:bottom-20 transition-all duration-500 z-50 opacity-1'>Full Stack build, MySQL, Handlebars</div>
      <div>
       <span className='text-gradient text-2xl  absolute -bottom-full  group-hover:bottom-32 transition-all duration-500 z-50 opacity-1'>Gamers-Gauntlet</span>
     </div>
